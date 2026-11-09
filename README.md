@@ -2,6 +2,9 @@
 
 ### Node.js Server-Side JavaScript Project
 
+<img width="653" height="591" alt="palindrome SS" src="https://github.com/user-attachments/assets/bb99e76a-3fed-4f8b-88b8-db68cace2900" />
+
+
 ## About the Project
 
 This is a simple palindrome checker I built to practice using Node.js and working with server-side JavaScript.
